@@ -1,3 +1,1 @@
 # PoArt
-
-![./warped.jpg]()
